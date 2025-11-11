@@ -1,4 +1,4 @@
-# dsci100-indv
+# dsci100-004-30-indv
 Data Science Project: Planning Stage (Individual)
 
 Name: Victoria Chen
